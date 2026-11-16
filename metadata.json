@@ -1,0 +1,6 @@
+{
+  "name": "Wormz Arena",
+  "description": "A vibrant 2D arcade worm survival game with AI opponents, glowing snacks, custom skins, speed boosts, and responsive mobile touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
